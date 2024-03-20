@@ -1,9 +1,0 @@
-8
-11 Zverev Physics 2
-23 Berdyayev Physics 2
-44 Hlebov Math 2
-44 Nebulov Math 3
-44 Fedurchuk Math 4
-44 Neveselov Physics 4
-23 Karandash Chemistry 3
-44 Neveselov Math 3
