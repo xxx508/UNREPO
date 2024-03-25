@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Q:\\UNIV\\UNREPO\\03\\DiscretMath\\sample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB771FC5-7B0A-4375-90BA-62DB4C065EDC}|sample\\sample.vcxproj|Q:\\UNIV\\UNREPO\\03\\DiscretMath\\sample\\sample\\sample.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EB771FC5-7B0A-4375-90BA-62DB4C065EDC}|sample\\sample.vcxproj|solutionrelative:sample\\sample.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sample.cpp",
+              "DocumentMoniker": "Q:\\UNIV\\UNREPO\\03\\DiscretMath\\sample\\sample\\sample.cpp",
+              "RelativeDocumentMoniker": "sample\\sample.cpp",
+              "ToolTip": "Q:\\UNIV\\UNREPO\\03\\DiscretMath\\sample\\sample\\sample.cpp",
+              "RelativeToolTip": "sample\\sample.cpp",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAQwFEAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-24T18:07:45.309Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
