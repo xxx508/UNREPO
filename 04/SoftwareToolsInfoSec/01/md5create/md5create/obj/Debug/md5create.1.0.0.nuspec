@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>md5create</id>
+    <version>1.0.0</version>
+    <authors>md5create</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="5fcd4ed5718f7771bbbb98f58dba8b3ccc378d75" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\roman\source\gitrepos\UNREPO\04\SoftwareToolsInfoSec\01\md5create\md5create\bin\Debug\net8.0\md5create.runtimeconfig.json" target="lib\net8.0\md5create.runtimeconfig.json" />
+    <file src="C:\Users\roman\source\gitrepos\UNREPO\04\SoftwareToolsInfoSec\01\md5create\md5create\bin\Debug\net8.0\md5create.dll" target="lib\net8.0\md5create.dll" />
+  </files>
+</package>
