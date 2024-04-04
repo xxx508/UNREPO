@@ -1,0 +1,25 @@
+﻿1CV8LOG(ver 2.0)
+525c9a9d-0e73-4410-b6ec-ec1a5ad1ac15
+
+{1,071523a4-516f-4fce-ba4b-0d11ab7a1893,"",1},
+{2,"TrixSOB",1},
+{3,"Designer",1},
+{4,"_$Session$_.Authentication",1},
+{13,1,1},
+{4,"_$Session$_.Start",2},
+{4,"_$InfoBase$_.ConfigUpdate",3},
+{4,"_$InfoBase$_.DBConfigUpdateStart",4},
+{4,"_$InfoBase$_.DBConfigUpdate",5},
+{4,"_$Access$_.Access",6},
+{3,"1CV8C",2},
+{4,"_$Session$_.Finish",7},
+{4,"_$PerformError$_",8},
+{4,"_$InfoBase$_.PredefinedDataUpdate",9},
+{5,817a6467-107a-4e23-8544-6da7239237e6,"",1},
+{5,817a6467-107a-4e23-8544-6da7239237e6,"Справочник.ОграниченияКубиков",1},
+{4,"_$Transaction$_.Begin",10},
+{4,"_$Data$_.PredefinedDataInitialization",11},
+{4,"_$Transaction$_.Commit",12},
+{4,"_$Data$_.Delete",13},
+{4,"_$Data$_.Update",14},
+{4,"_$InfoBase$_.DBConfigUpdateError",15}

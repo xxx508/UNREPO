@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("md5create")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5fcd4ed5718f7771bbbb98f58dba8b3ccc378d75")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc76beb80a37419952d75fbf9044dd186f1db1ea")]
 [assembly: System.Reflection.AssemblyProductAttribute("md5create")]
 [assembly: System.Reflection.AssemblyTitleAttribute("md5create")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

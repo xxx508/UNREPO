@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\roman\\source\\gitrepos\\UNREPO\\04\\SoftwareToolsInfoSec\\01\\md5create\\md5create\\md5create.csproj": {}
+    "Q:\\UNIV\\UNREPO\\04\\SoftwareToolsInfoSec\\01\\md5create\\md5create\\md5create.csproj": {}
   },
   "projects": {
-    "C:\\Users\\roman\\source\\gitrepos\\UNREPO\\04\\SoftwareToolsInfoSec\\01\\md5create\\md5create\\md5create.csproj": {
+    "Q:\\UNIV\\UNREPO\\04\\SoftwareToolsInfoSec\\01\\md5create\\md5create\\md5create.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\roman\\source\\gitrepos\\UNREPO\\04\\SoftwareToolsInfoSec\\01\\md5create\\md5create\\md5create.csproj",
+        "projectUniqueName": "Q:\\UNIV\\UNREPO\\04\\SoftwareToolsInfoSec\\01\\md5create\\md5create\\md5create.csproj",
         "projectName": "md5create",
-        "projectPath": "C:\\Users\\roman\\source\\gitrepos\\UNREPO\\04\\SoftwareToolsInfoSec\\01\\md5create\\md5create\\md5create.csproj",
-        "packagesPath": "C:\\Users\\roman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\roman\\source\\gitrepos\\UNREPO\\04\\SoftwareToolsInfoSec\\01\\md5create\\md5create\\obj\\",
+        "projectPath": "Q:\\UNIV\\UNREPO\\04\\SoftwareToolsInfoSec\\01\\md5create\\md5create\\md5create.csproj",
+        "packagesPath": "C:\\Users\\khaba\\.nuget\\packages\\",
+        "outputPath": "Q:\\UNIV\\UNREPO\\04\\SoftwareToolsInfoSec\\01\\md5create\\md5create\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\roman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\khaba\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -65,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
