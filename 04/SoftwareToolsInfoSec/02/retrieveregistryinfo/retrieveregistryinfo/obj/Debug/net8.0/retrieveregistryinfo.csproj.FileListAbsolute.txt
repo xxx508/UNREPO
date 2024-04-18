@@ -1,0 +1,15 @@
+Q:\UNIV\UNREPO\04\SoftwareToolsInfoSec\02\retrieveregistryinfo\retrieveregistryinfo\bin\Debug\net8.0\retrieveregistryinfo.exe
+Q:\UNIV\UNREPO\04\SoftwareToolsInfoSec\02\retrieveregistryinfo\retrieveregistryinfo\bin\Debug\net8.0\retrieveregistryinfo.deps.json
+Q:\UNIV\UNREPO\04\SoftwareToolsInfoSec\02\retrieveregistryinfo\retrieveregistryinfo\bin\Debug\net8.0\retrieveregistryinfo.runtimeconfig.json
+Q:\UNIV\UNREPO\04\SoftwareToolsInfoSec\02\retrieveregistryinfo\retrieveregistryinfo\bin\Debug\net8.0\retrieveregistryinfo.dll
+Q:\UNIV\UNREPO\04\SoftwareToolsInfoSec\02\retrieveregistryinfo\retrieveregistryinfo\bin\Debug\net8.0\retrieveregistryinfo.pdb
+Q:\UNIV\UNREPO\04\SoftwareToolsInfoSec\02\retrieveregistryinfo\retrieveregistryinfo\obj\Debug\net8.0\retrieveregistryinfo.GeneratedMSBuildEditorConfig.editorconfig
+Q:\UNIV\UNREPO\04\SoftwareToolsInfoSec\02\retrieveregistryinfo\retrieveregistryinfo\obj\Debug\net8.0\retrieveregistryinfo.AssemblyInfoInputs.cache
+Q:\UNIV\UNREPO\04\SoftwareToolsInfoSec\02\retrieveregistryinfo\retrieveregistryinfo\obj\Debug\net8.0\retrieveregistryinfo.AssemblyInfo.cs
+Q:\UNIV\UNREPO\04\SoftwareToolsInfoSec\02\retrieveregistryinfo\retrieveregistryinfo\obj\Debug\net8.0\retrieveregistryinfo.csproj.CoreCompileInputs.cache
+Q:\UNIV\UNREPO\04\SoftwareToolsInfoSec\02\retrieveregistryinfo\retrieveregistryinfo\obj\Debug\net8.0\retrieveregistryinfo.sourcelink.json
+Q:\UNIV\UNREPO\04\SoftwareToolsInfoSec\02\retrieveregistryinfo\retrieveregistryinfo\obj\Debug\net8.0\retrieveregistryinfo.dll
+Q:\UNIV\UNREPO\04\SoftwareToolsInfoSec\02\retrieveregistryinfo\retrieveregistryinfo\obj\Debug\net8.0\refint\retrieveregistryinfo.dll
+Q:\UNIV\UNREPO\04\SoftwareToolsInfoSec\02\retrieveregistryinfo\retrieveregistryinfo\obj\Debug\net8.0\retrieveregistryinfo.pdb
+Q:\UNIV\UNREPO\04\SoftwareToolsInfoSec\02\retrieveregistryinfo\retrieveregistryinfo\obj\Debug\net8.0\retrieveregistryinfo.genruntimeconfig.cache
+Q:\UNIV\UNREPO\04\SoftwareToolsInfoSec\02\retrieveregistryinfo\retrieveregistryinfo\obj\Debug\net8.0\ref\retrieveregistryinfo.dll

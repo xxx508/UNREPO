@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\roman\\source\\gitrepos\\UNREPO\\04\\SoftwareToolsInfoSec\\01\\md5create\\",
+  "WorkspaceRootPath": "Q:\\UNIV\\UNREPO\\04\\SoftwareToolsInfoSec\\01\\md5create\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6D50E752-AC4E-42FC-A362-C6E42857B899}|md5create\\md5create.csproj|c:\\users\\roman\\source\\gitrepos\\unrepo\\04\\softwaretoolsinfosec\\01\\md5create\\md5create\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6D50E752-AC4E-42FC-A362-C6E42857B899}|md5create\\md5create.csproj|q:\\univ\\unrepo\\04\\softwaretoolsinfosec\\01\\md5create\\md5create\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D50E752-AC4E-42FC-A362-C6E42857B899}|md5create\\md5create.csproj|solutionrelative:md5create\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,17 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\roman\\source\\gitrepos\\UNREPO\\04\\SoftwareToolsInfoSec\\01\\md5create\\md5create\\Program.cs",
+              "DocumentMoniker": "Q:\\UNIV\\UNREPO\\04\\SoftwareToolsInfoSec\\01\\md5create\\md5create\\Program.cs",
               "RelativeDocumentMoniker": "md5create\\Program.cs",
-<<<<<<< HEAD
-              "ToolTip": "C:\\Users\\roman\\source\\gitrepos\\UNREPO\\04\\SoftwareToolsInfoSec\\01\\md5create\\md5create\\Program.cs",
-=======
               "ToolTip": "Q:\\UNIV\\UNREPO\\04\\SoftwareToolsInfoSec\\01\\md5create\\md5create\\Program.cs",
->>>>>>> 8cb08225a6606113d5b8f100f089331fb8955353
               "RelativeToolTip": "md5create\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T04:30:42.908Z",
+              "WhenOpened": "2024-04-17T22:06:24.368Z",
               "EditorCaption": ""
             }
           ]
