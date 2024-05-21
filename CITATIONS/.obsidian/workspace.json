@@ -4,18 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "c2077abaa1de7d4c",
+        "id": "71aa14ce88bd54d1",
         "type": "tabs",
         "children": [
           {
-            "id": "3aa39618715df445",
+            "id": "7f6b7ec82bd1961f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "04/ФОЗИ/attachments/Physical Layer Components Security Risks in Optical Fiber Infrastructures.pdf"
+              }
+            }
+          },
+          {
+            "id": "811e4e22ed734fd0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04/ФОЗИ/Оптический сплиттер.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "020be38544c04d38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04/ФОЗИ/Сгибание оптоволокна.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "2c48f8e62f0e4a43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04/ФОЗИ/_CW.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a515c9b4660b2985",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "04/ФОЗИ/attachments/OPTICAL NETWORK SECURITY TECHNICAL ANALYSIS OF FIBER TAPPING MECHANISMS AND METHODS FOR DETECTION & PREVENTION.pdf"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -65,7 +114,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 277.5,
+    "collapsed": true
   },
   "right": {
     "id": "3b53b6f342632fe2",
@@ -81,6 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "04/ФОЗИ/_CW.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "04/ФОЗИ/_CW.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +170,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "04/ФОЗИ/_CW.md"
+              }
             }
           },
           {
@@ -133,7 +187,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -152,23 +207,29 @@
       "workspaces:Manage workspace layouts": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "3aa39618715df445",
+  "active": "2c48f8e62f0e4a43",
   "lastOpenFiles": [
-    "04/ФОЗИ/OPTICAL NETWORK SECURITY TECHNICAL ANALYSIS OF FIBER TAPPING MECHANISMS AND METHODS FOR DETECTION & PREVENTION.pdf",
-    "04/ФОЗИ/OPTICAL NETWORK SECURITY TECHNICAL ANALYSIS OF FIBER TAPPING MECHANISMS AND METHODS FOR DETECTION & PREVENTION.pdf.crdownload",
-    "04/ФОЗИ/Security threats and protection procedures for optical networks.pdf",
-    "04/ФОЗИ/Security threats and protection procedures for optical networks.pdf.crdownload",
-    "04/ФОЗИ/Secure Communication in Fiber-Optic Networks.pdf",
-    "04/ФОЗИ/Secure Communication in Fiber-Optic Networks.pdf.crdownload",
-    "04/ФОЗИ/Vulnerabilities and Security Issues in Optical Networks.pdf",
-    "04/ФОЗИ/Vulnerabilities and Security Issues in Optical Networks.pdf.crdownload",
-    "04/ФОЗИ/Physical Layer Components Security Risks in Optical Fiber Infrastructures.pdf",
+    "_CW.pdf",
+    "04/ФОЗИ/Сгибание оптоволокна.md",
+    "04/ФОЗИ/Оптический сплиттер.md",
+    "04/ФОЗИ/_CW.md",
+    "04/ФОЗИ/attachments/OPTICAL NETWORK SECURITY TECHNICAL ANALYSIS OF FIBER TAPPING MECHANISMS AND METHODS FOR DETECTION & PREVENTION.pdf",
+    "04/ФОЗИ/attachments/Physical Layer Components Security Risks in Optical Fiber Infrastructures.pdf",
+    "04/ФОЗИ/Типы подключений.md",
+    "04/ФОЗИ/attachments/Скрытное подсоединие к оптоволокну_ методы и предосторожности.pdf",
+    "04/ФОЗИ/attachments",
     "04/ФОЗИ/Index.md",
-    "04/ФОЗИ/Physical Layer Components Security Risks in Optical Fiber Infrastructures.pdf.crdownload",
-    "04/ФОЗИ",
+    "04/ФОЗИ/attachments/Vulnerabilities and Security Issues in Optical Networks.pdf",
+    "04/ФОЗИ/OPTICAL NETWORK SECURITY TECHNICAL ANALYSIS OF FIBER TAPPING MECHANISMS AND METHODS FOR DETECTION & PREVENTION.pdf.crdownload",
+    "04/ФОЗИ/attachments/Security threats and protection procedures for optical networks.pdf",
+    "04/ФОЗИ/Security threats and protection procedures for optical networks.pdf.crdownload",
+    "04/ФОЗИ/attachments/Secure Communication in Fiber-Optic Networks.pdf",
+    "04/ФОЗИ/Secure Communication in Fiber-Optic Networks.pdf.crdownload",
     "Untitled.md",
     "Untitled 1.md",
     "Welcome.md"

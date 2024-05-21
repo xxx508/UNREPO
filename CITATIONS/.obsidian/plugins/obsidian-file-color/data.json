@@ -1,0 +1,27 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "A354fsry0-YynS8-YTexY",
+      "name": "Red",
+      "value": "#ed0707"
+    },
+    {
+      "id": "swZ4tuMfCnZpJeq-TQvBL",
+      "name": "Green",
+      "value": "#12f315"
+    },
+    {
+      "id": "VyQ_8jwsBpy-gQmQbJsGx",
+      "name": "Blue",
+      "value": "#1942e6"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "04/ФОЗИ/attachments/OPTICAL NETWORK SECURITY TECHNICAL ANALYSIS OF FIBER TAPPING MECHANISMS AND METHODS FOR DETECTION & PREVENTION.pdf",
+      "color": "swZ4tuMfCnZpJeq-TQvBL"
+    }
+  ]
+}
