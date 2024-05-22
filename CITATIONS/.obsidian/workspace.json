@@ -48,7 +48,7 @@
               "type": "markdown",
               "state": {
                 "file": "04/ФОЗИ/_CW.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -209,7 +209,8 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "omnisearch:Omnisearch": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
-      "darlal-switcher-plus:Open Symbols for the active editor": false
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false
     }
   },
   "active": "2c48f8e62f0e4a43",
