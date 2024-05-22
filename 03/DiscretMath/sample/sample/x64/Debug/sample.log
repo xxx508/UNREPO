@@ -1,3 +1,0 @@
-﻿  sample.cpp
-Q:\UNIV\UNREPO\03\DiscretMath\sample\sample\sample.cpp(6,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-  sample.vcxproj -> Q:\UNIV\UNREPO\03\DiscretMath\sample\x64\Debug\sample.exe
