@@ -47,8 +47,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04/ФОЗИ/_CW.md",
-                "mode": "preview",
+                "file": "04/ФОЗИ/_Оптический канал утечки информации.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04/ФОЗИ/_CW.md",
+                "file": "04/ФОЗИ/_Оптический канал утечки информации.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04/ФОЗИ/_CW.md",
+                "file": "04/ФОЗИ/_Оптический канал утечки информации.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04/ФОЗИ/_CW.md"
+                "file": "04/ФОЗИ/_Оптический канал утечки информации.md"
               }
             }
           },
@@ -217,7 +217,7 @@
   "lastOpenFiles": [
     "04/ФОЗИ/Сгибание оптоволокна.md",
     "04/ФОЗИ/Оптический сплиттер.md",
-    "04/ФОЗИ/_CW.md",
+    "04/ФОЗИ/_Оптический канал утечки информации.md",
     "_CW.pdf",
     "04/ФОЗИ/attachments/OPTICAL NETWORK SECURITY TECHNICAL ANALYSIS OF FIBER TAPPING MECHANISMS AND METHODS FOR DETECTION & PREVENTION.pdf",
     "04/ФОЗИ/attachments/Physical Layer Components Security Risks in Optical Fiber Infrastructures.pdf",
